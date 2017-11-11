@@ -1,3 +1,4 @@
+toto: titi titi
 logging:
   level:
     root: INFO
